@@ -9,25 +9,25 @@ Vi drifter foreløpig lokaler i Kristiansand, men er åpne for å senere gjøre 
 
 Foreningen har følgende formål:
 Jobbe for å etablere et samlings- og lærested for spill. 
-Spillsenteret skal være et lavterskeltilbud for spillinteresserte i alle aldre, med særlig fokus på å stimulere skaper- og spilleglede og lyst til å lære om spillkultur og spillutvikling. 
-Foreningen samarbeider med Spillmakerlauget og deres lokallag der Spillsenteret har lokaler.
+Spillsenteret skal være et lavterskeltilbud for spillinteresserte i alle aldre, med særlig fokus på å stimulere skaper- og spilleglede samt lyst til å lære om spillkultur, utvikling og teknologi.
 
-Foreningen baserer seg på frivillig engasjement, og er uavhengig av eksterne organisasjoner som medlemmer arbeider i og organisasjoner som sponser foreningen.
+Foreningen baserer seg på eget engasjement, og er uavhengig av eksterne organisasjoner som medlemmer arbeider i og organisasjoner som sponser foreningen.
  
 ## § 3 Juridisk person
 Foreningen er en selveiende og frittstående juridisk person med upersonlig og begrenset ansvar for gjeld.
 
 ## § 4 Medlemskap
-Alle enkeltpersoner med interesse for spillkultur og spillutvikling kan bli medlem av Spillsenteret. Spillsenteret har ikke medlemskontingent.
+Alle enkeltpersoner med interesse for spillkultur og spillutvikling, over 15 år, kan bli medlem av Spillsenteret. Spillsenteret har ikke medlemskontingent.
 
-Styret kan med 2/3 flertall suspendere medlemmer i Spillsenteret ved alvorlige og gjentatte brudd på vedtekter og/eller oppførselsregler (Code of Conduct). Ekskludering av medlemmer kan bare skje hvis påfølgende regionale årsmøte og landsmøte vedtar det med 2/3 flertall. Suspenderte medlemmer har ikke medlemsrettigheter før suspensjon er opphevet. Medlemmer som blir vurdert suspendert/ekskludert, kan ikke stemme i egne saker om suspendering og ekskludering. Ekskluderte medlemmer er stengt ute fra medlemskap i hele Spillsenteret i minst ett år fra ekskluderingsvedtak. Deretter kan ekskluderte medlemmer søke om nytt medlemskap med oppheving av ekskludering hvis vedkommende har unnskyldt seg til fornærmede parter og det er grunn til å tro at vedkommende vil følge vedtektene og oppførselsreglene.
+Styret kan med 2/3 flertall suspendere medlemmer i Spillsenteret ved alvorlige og gjentatte brudd på vedtekter og/eller oppførselsregler (Code of Conduct). Ekskludering av medlemmer kan kun skje ved enstemmig beslutning i styremøte. Suspenderte medlemmer har ikke medlemsrettigheter før suspensjon er opphevet. Medlemmer som blir vurdert suspendert/ekskludert, kan ikke stemme i egne saker om suspendering og ekskludering. Ekskluderte medlemmer er stengt ute fra medlemskap i hele Spillsenteret i minst ett år fra ekskluderingsvedtak. Deretter kan ekskluderte medlemmer søke om nytt medlemskap med oppheving av ekskludering hvis vedkommende har unnskyldt seg til fornærmede parter og det er grunn til å tro at vedkommende vil følge vedtektene og oppførselsreglene.
 
 ## § 5 Kontingent
 
 Spillsenteret har ingen medlemskontingent.
 
 ## § 6 Stemmerett og valgbarhet
-For å ha stemmerett må man være fylt 18 år, ha hatt gyldig medlemskap i minst 2 uker og ha oppfylt medlemsforpliktelsene. Ingen kan møte eller avgi stemme ved fullmakt.
+For å ha stemmerett må man være fylt 18 år, ha hatt gyldig medlemskap i minst 6 måneder og ha oppfylt medlemsforpliktelsene. Ingen kan møte eller avgi stemme ved fullmakt.
+Ved valg av ungdomsleder har man stemmerett fra man er fylt 15 år.
  
 Alle medlemmer som har stemmerett er valgbare til tillitsverv i foreningen, og som representant til ting eller møte i overordnede organisasjonsledd. 
 
@@ -35,7 +35,7 @@ Alle medlemmer som har stemmerett er valgbare til tillitsverv i foreningen, og s
 Tillitsvalgte kan motta rimelig honorar for sitt arbeid samt refusjon for faktiske utgifter, inkludert tapt arbeidsfortjeneste så fremt foreningen har tilgang til slik kapital. Utgifter til godtgjørelse, honorar og refusjon for faktiske utgifter skal fremgå av budsjett og regnskap.
 
 ## § 8 Årsmøte
-Årsmøtet, som hvert år holdes senest i mai måned og før landsmøtet til samarbeidspartner Spillmakerlauget, er foreningens høyeste myndighet.
+Årsmøtet, som hvert år holdes senest i mai måned, er foreningens høyeste myndighet.
 Årsmøtet innkalles av styret med minst 2 ukers varsel, direkte til medlemmene og gjerne også gjennom offisielle foreningskanaler på Internett. Forslag som skal behandles på årsmøtet skal være sendt til styret senest 1 uke før årsmøtet. Fullstendig saksliste må være tilgjengelig for medlemmene senest 5 dager før årsmøtet.
 
 Alle medlemmer har adgang til årsmøtet. Styret kan invitere andre personer og/eller media til å være til stede.
@@ -56,12 +56,12 @@ På årsmøtet kan det ikke behandles forslag om vedtektsendring som ikke er opp
 1.	Velge:
     - Leder og nestleder
     - Minst 1 styremedlem
+    - Minst 1 ungdomsleder
     - Eventuelle varamedlemmer
     - Revisor, hvis foreningen er revisjonspliktig
 
 Leder og nestleder velges enkeltvis. De øvrige medlemmer til styret velges samlet. Deretter velges eventuelle varamedlemmer samlet, og ved skriftlig valg avgjøres rekkefølgen i forhold til stemmetall.
-Alle styremedlemmer blir valgt for ett år om gangen.
-Minst ett styremedlem skal være medlem av Spillmakerlauget.
+Alle styremedlemmer blir valgt for ti år om gangen, med unntak av ungdomsleder, som velges hvert år.
 
 ## § 9 Ekstraordinære årsmøter
 Ekstraordinære årsmøter holdes når styret bestemmer det, eller minst en tredjedel av de stemmeberettigede medlemmene krever det.
@@ -72,7 +72,6 @@ Ekstraordinært årsmøte kan bare behandle og ta avgjørelse i de sakene som er
 
 ## § 10 Styret
 Foreningen ledes av et styre på minst 3 til maks 8 medlemmer. Det kan i tillegg være et valgfritt antall varamedlemmer. Styret er høyeste myndighet mellom årsmøtene.
-Styret kan ikke inneholde mer enn to arbeidstakere fra samme kommersielle selskap.
 
 Styret skal:
 1.	Iverksette årsmøtets bestemmelser.
@@ -88,6 +87,8 @@ Styret er vedtaksført når et flertall av styrets medlemmer er til stede. Vedta
 Styret har fullmakt til å supplere seg selv (ved frafall eller behov) opptil totalt 8 styremedlemmer. Supplerte styremedlemmer sitter i styret frem til neste årsmøte. Styret kan utnevne fungerende leder og nestleder ved behov.
 
 Styrets leder og nestleder har hver for seg både signaturrett og prokura. Dersom verken styreleder eller nestleder er tilgjengelig, kan styret i fellesskap tildele signaturrett og prokura til andre.
+
+Styrets ungdomsleder har hovedansvar for å representere de under 18 år som bruker Spillsenteret. De er også HM-ansvarlige for medlemmer under 18 år, og er pliktig å opptre nøytralt og løsningsorientert i konflikter. Ungdomsleder er også oppfordret til å rekruttere nye medlemmer, hjelpe til med arrangementer, kommunisere gjennom sosiale medier og velge tillitsvalgte under 18 år for forskjellige oppgaver. For sitt arbeid settes det av kroner 2000,- hver måned som ungdomsleder kan ta ut i honorar. 
 
 ## § 11 Grupper/avdelinger
 Spillsenteret kan organiseres med avdelinger og/eller grupper. Disse kan ledes av oppnevnte tillitspersoner eller av valgte styrer. Spillsenterets årsmøte eller styre bestemmer opprettelsen av avdelinger/grupper, og hvordan disse skal organiseres og ledes.
@@ -109,4 +110,4 @@ Disse vedtektene er Spillsenterets øverste regelverk. Endringer i disse vedtekt
 ## § 14 Oppløsning
 Oppløsning av Spillsenteret kan bare behandles på ordinært årsmøte. Blir oppløsning vedtatt med minst 2/3 flertall av de avgitte stemmene, innkalles det til ekstraordinært årsmøte 3 måneder senere, der oppløsning må bekreftes med 2/3 flertall. Ved oppløsning bestemmer årsmøtet fordelingen av Spillsenteret sine midler.
 
-Sammenslutning med andre foreninger anses ikke som oppløsning av Spillsenteret. Vedtak om sammenslutning og nødvendige vedtektsendringer i tilknytning til dette treffes i samsvar med bestemmelsene om vedtektsendring, jfr. § 15.
+Sammenslutning med andre foreninger anses ikke som oppløsning av Spillsenteret. Vedtak om sammenslutning og nødvendige vedtektsendringer i tilknytning til dette treffes i samsvar med bestemmelsene om vedtektsendring, jfr. § 13.
