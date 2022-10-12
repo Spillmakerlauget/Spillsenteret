@@ -1,5 +1,7 @@
 # Vedtekter for foreningen Spillsenteret
 
+Sist endret 29. september 2022.
+
 ## § 1 Foreningens navn
 Foreningens navn er Spillsenteret og ble stiftet 28. november 2021.
 
@@ -36,7 +38,7 @@ Tillitsvalgte kan motta rimelig honorar for sitt arbeid samt refusjon for faktis
 
 ## § 8 Årsmøte
 Årsmøtet, som hvert år holdes senest i mai måned, er foreningens høyeste myndighet.
-Årsmøtet innkalles av styret med minst 2 ukers varsel, direkte til medlemmene og gjerne også gjennom offisielle foreningskanaler på Internett. Forslag som skal behandles på årsmøtet skal være sendt til styret senest 1 uke før årsmøtet. Fullstendig saksliste må være tilgjengelig for medlemmene senest 5 dager før årsmøtet.
+Årsmøtet innkalles av styret med minst 2 ukers varsel, direkte gjerne også gjennom offisielle foreningskanaler på Internett. Forslag som skal behandles på årsmøtet skal være sendt til styret senest 1 uke før årsmøtet. Fullstendig saksliste må være tilgjengelig for medlemmene senest 5 dager før årsmøtet.
 
 Alle medlemmer har adgang til årsmøtet. Styret kan invitere andre personer og/eller media til å være til stede.
 
