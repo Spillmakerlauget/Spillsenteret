@@ -1,4 +1,3 @@
 # Spillsenteret
-Offisielle dokumenter for Spillsenteret
+Offisielle dokumenter for Spillsenteret i Kristiansand (org.nr. 928 032 477)
 
-Merknad: Vedtektene i dette repositoryet for Spillsenteret er ennå ikke vedtatt. Dette er foreløpig bare et utkast.
